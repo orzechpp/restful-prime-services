@@ -1,0 +1,43 @@
+# Intellj#
+######################
+*.iml
+*.idea
+
+# Eclipse #
+###############
+.project
+.classpath
+.settings/
+.externalTooBuilders/
+
+# SVN #
+######################
+./svn
+
+# Compailed soures #
+#####################
+.com
+*.class
+*.dll
+*.o
+*.so
+
+# Packages #
+*.gz
+*.7z
+*.dmg
+*.iso
+*.jar
+*.rar
+*.zip
+
+# Macen Output #
+################
+target/
+output/
+# Logs #
+*/log
+logs/*.log
+
+# Clover #
+.clover/
